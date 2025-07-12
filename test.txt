@@ -1,0 +1,1 @@
+this is a simple plain text file with the extension of .txt ment for the purpose of testing the project that i made in the c language which is a tool for handling fles on the system . and it looks that its workig great
