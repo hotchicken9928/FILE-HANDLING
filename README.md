@@ -1,4 +1,14 @@
+COMPANY: CODTECH IT SOLUTIONS
 
+NAME: MD SAJID ALAM
+
+INTERN ID: CT04DG1791
+
+DOMAIN: C PROGRAMMING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
 
 This is a basic C program made for file handling operations.
 
